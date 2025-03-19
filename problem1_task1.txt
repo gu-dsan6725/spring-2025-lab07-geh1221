@@ -1,0 +1,19 @@
+Below are some inquiries or questions sent to a bank. Write responses that appropriately categorize each request with labels.
+
+### Text:
+I see a charge on my credit card statement but I paid on time, why?
+
+### Response:
+transfer_not_received_by_recipient Below are some inquiries or questions sent to a bank. Write responses that appropriately categorize each request with labels.
+
+### Text:
+Do you have a branch in Timbuktu?
+
+### Response:
+country_support Below are some inquiries or questions sent to a bank. Write responses that appropriately categorize each request with labels.
+
+### Text:
+I lost my card and my replacement card has not arrived.
+
+### Response:
+card_arrival
